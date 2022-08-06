@@ -3,7 +3,7 @@ def split_table (string):
     return array[2]
 
 def split_table_name (string):
-    array = string.split('-')
+    array = string.split(' ')
     return array[1:len(array)]
 
 
