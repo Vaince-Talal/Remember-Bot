@@ -5,12 +5,13 @@ from commands import *
 client = discord.Client()
 
 wordID = 0
-databaseName = 'test5'
+databaseName = 'offical'
 con = sqlite3.connect(databaseName + '.db')
 commands = ['$create table NAME - creates a table with a NAME corresponding to the category ',
             "$print cat TABLE_NAME - prints the corresponding table according to its TABLE_NAME",
             "$add WORD TABLE_NAME - adds a WORD for the bot to watch for and adds it to TABLE_NAME"]
-
+temp = open("key.txt", "r")
+key = temp.readline()
 
 @client.event
 async def on_ready():
@@ -76,4 +77,4 @@ async def on_guild_join(guild):
     con.commit()
 
 
-client.run('MTAwMjA2MjI5OTY0MjcyODUzOQ.G-hu-4.WDeHqc_ilwlU34pTP0e0QlU5eQL-fP8vtHeovg')
+client.run(f'{key}')
