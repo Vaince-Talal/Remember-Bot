@@ -74,7 +74,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Remember-Bot][product-screenshot]](https://example.com)
 
 The Remember-Bot is a Discord bot designed to remember certain phrases said by anybody in the chat. Users are allowed to create categories for the bot to watch certain words. 
 
