@@ -39,14 +39,13 @@
   <p align="center">
     A Discord Bot that will Remember Users phrase and store into a database.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Vaince-Talal/Remember-Bot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Vaince-Talal/Remember-Bot">Report Bug</a>
+
   </p>
 </div>
 
@@ -83,18 +82,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Remember-Bot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The Remember-Bot is a Discord bot designed to remember certain phrases said by anybody in the chat. Users are allowed to create categories for the bot to watch certain words. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Feautures:
+  - Create a Category server exclusive or even a common catergory for every server!
+  - Add certain words for the bot to watch out for.
+  - Print the history of the bot!
+  - Delete undesired categroies or words.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,14 +100,12 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Python][Python]][Python-url]
+* [![Discord.py][Discord]][Discord-url]
+* [![SQLite3][SQLite3]][SQLite3-url]
+* [![Heroku][Heroku]][Heroku-url]
+* [![GIT][GIT]][GIT-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,9 +246,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Python]: https://imgs.search.brave.com/eOvh8a5-I3AnoG69NqhawAMgBaFLYVTzE9cw3yRRrJ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2MzL1B5/dGhvbi1sb2dvLW5v/dGV4dC5zdmcvMTIw/MHB4LVB5dGhvbi1s/b2dvLW5vdGV4dC5z/dmcucG5n
+[Python-url]: https://www.python.org/
+[Discord]: https://imgs.search.brave.com/FFNp3YxZyxg1c1QaI8dHUq4nPFMLY56zPD29c8fNwsg/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC54/cHN6VHZzWWoteENE/eU1hRjI1QzBRSGFI/YSZwaWQ9QXBp
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
