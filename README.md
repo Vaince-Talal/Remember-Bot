@@ -140,7 +140,7 @@ In order to get started, Discord is a hard requirement.
 
 - [x] Add Remembering Feautures
 - [x] Upload to Heroku
-- [ ] Create Explict Categories
+- [ ] Create Expletives Categories
     - [ ] Ban Users after a certain amount of Explict Words
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
