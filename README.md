@@ -18,12 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -42,8 +37,6 @@
     <a href="https://github.com/Vaince-Talal/Remember-Bot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
     <a href="https://github.com/Vaince-Talal/Remember-Bot">Report Bug</a>
 
   </p>
@@ -100,7 +93,7 @@ Feautures:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python][Python]][Python-url]
+* [![Python][<img src="images/logo.png" alt="Logo" width="80" height="80">]][Python-url]
 * [![Discord.py][Discord]][Discord-url]
 * [![SQLite3][SQLite3]][SQLite3-url]
 * [![Heroku][Heroku]][Heroku-url]
@@ -246,9 +239,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Python]: https://imgs.search.brave.com/eOvh8a5-I3AnoG69NqhawAMgBaFLYVTzE9cw3yRRrJ0/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2MzL1B5/dGhvbi1sb2dvLW5v/dGV4dC5zdmcvMTIw/MHB4LVB5dGhvbi1s/b2dvLW5vdGV4dC5z/dmcucG5n
+[Python]: https://www12.lunapic.com/do-not-link-here-use-hosting-instead/166380517420368026?71112299021
 [Python-url]: https://www.python.org/
-[Discord]: https://imgs.search.brave.com/FFNp3YxZyxg1c1QaI8dHUq4nPFMLY56zPD29c8fNwsg/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC54/cHN6VHZzWWoteENE/eU1hRjI1QzBRSGFI/YSZwaWQ9QXBp
+[Discord]: <img src="images/logo.png" alt="Logo" width="80" height="80">
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
