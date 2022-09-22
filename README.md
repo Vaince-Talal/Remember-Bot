@@ -63,7 +63,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -76,6 +75,7 @@
 
 
 The Remember-Bot is a Discord bot designed to remember certain phrases said by anybody in the chat. Users are allowed to create categories for the bot to watch certain words. 
+STATUS: DOWN
 
 Feautures:
   - Create a Category server exclusive or even a common catergory for every server!
@@ -164,13 +164,6 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
