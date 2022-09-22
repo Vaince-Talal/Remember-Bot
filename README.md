@@ -26,8 +26,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/Vaince-Talal/Remember-Bot">
-    <img src="images/Remember-me.jpeg
-" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Remember-Bot
