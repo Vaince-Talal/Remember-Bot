@@ -77,7 +77,7 @@
 The Remember-Bot is a Discord bot designed to remember certain phrases said by anybody in the chat. Users are allowed to create categories for the bot to watch certain words. 
 STATUS: DOWN
 
-Feautures:
+Features:
   - Create a Category server exclusive or even a common catergory for every server!
   - Add certain words for the bot to watch out for.
   - Print the history of the bot!
